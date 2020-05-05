@@ -1,0 +1,16 @@
+C:\Users\Daniel\Desktop\inputsimulator\sourceCode\inputsimulator\WindowsInput.Tests\bin\Debug\WindowsInput.Tests.dll
+C:\Users\Daniel\Desktop\inputsimulator\sourceCode\inputsimulator\WindowsInput.Tests\bin\Debug\WindowsInput.Tests.pdb
+C:\Users\Daniel\Desktop\inputsimulator\sourceCode\inputsimulator\WindowsInput.Tests\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Daniel\Desktop\inputsimulator\sourceCode\inputsimulator\WindowsInput.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Daniel\Desktop\inputsimulator\sourceCode\inputsimulator\WindowsInput.Tests\bin\Debug\WindowsInput.dll
+C:\Users\Daniel\Desktop\inputsimulator\sourceCode\inputsimulator\WindowsInput.Tests\bin\Debug\WindowsInput.pdb
+C:\Users\Daniel\Desktop\inputsimulator\sourceCode\inputsimulator\WindowsInput.Tests\bin\Debug\WindowsInput.xml
+C:\Users\Daniel\Desktop\inputsimulator\sourceCode\inputsimulator\WindowsInput.Tests\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Daniel\Desktop\inputsimulator\sourceCode\inputsimulator\WindowsInput.Tests\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Daniel\Desktop\inputsimulator\sourceCode\inputsimulator\WindowsInput.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Daniel\Desktop\inputsimulator\sourceCode\inputsimulator\WindowsInput.Tests\obj\Debug\WindowsInput.Tests.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\inputsimulator\sourceCode\inputsimulator\WindowsInput.Tests\obj\Debug\WindowsInput.Tests.UnicodeText.UnicodeTestForm.resources
+C:\Users\Daniel\Desktop\inputsimulator\sourceCode\inputsimulator\WindowsInput.Tests\obj\Debug\WindowsInput.Tests.csproj.GenerateResource.cache
+C:\Users\Daniel\Desktop\inputsimulator\sourceCode\inputsimulator\WindowsInput.Tests\obj\Debug\WindowsInput.Tests.csproj.CopyComplete
+C:\Users\Daniel\Desktop\inputsimulator\sourceCode\inputsimulator\WindowsInput.Tests\obj\Debug\WindowsInput.Tests.dll
+C:\Users\Daniel\Desktop\inputsimulator\sourceCode\inputsimulator\WindowsInput.Tests\obj\Debug\WindowsInput.Tests.pdb

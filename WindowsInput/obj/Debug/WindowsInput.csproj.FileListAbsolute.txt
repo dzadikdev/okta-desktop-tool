@@ -1,0 +1,6 @@
+C:\Users\Daniel\Desktop\inputsimulator\sourceCode\inputsimulator\WindowsInput\bin\Debug\WindowsInput.xml
+C:\Users\Daniel\Desktop\inputsimulator\sourceCode\inputsimulator\WindowsInput\bin\Debug\WindowsInput.dll
+C:\Users\Daniel\Desktop\inputsimulator\sourceCode\inputsimulator\WindowsInput\bin\Debug\WindowsInput.pdb
+C:\Users\Daniel\Desktop\inputsimulator\sourceCode\inputsimulator\WindowsInput\obj\Debug\WindowsInput.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\inputsimulator\sourceCode\inputsimulator\WindowsInput\obj\Debug\WindowsInput.dll
+C:\Users\Daniel\Desktop\inputsimulator\sourceCode\inputsimulator\WindowsInput\obj\Debug\WindowsInput.pdb
